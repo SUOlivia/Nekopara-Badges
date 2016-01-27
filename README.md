@@ -3,5 +3,5 @@ This is a custom badges set for nekopara. I will start with chibi versions with 
 CheckList                                                                                                                                                                                                                                                         
 Chibi Azuki 64 :heavy_check_mark: 128 :heavy_check_mark:                                                                                                                                                                                                          
 Chibi Chocola 64 :heavy_check_mark: 128 :heavy_check_mark:                                                                                                                                
-![Chibi Chocola and Azuki preview 64 and 128](https://github.com/Ordim3n/Nekopara-Badges/Preview/Preview1.jpg)
+![Chibi Chocola and Azuki preview 64 and 128](https://github.com/Ordim3n/Nekopara-Badges/blob/master/Preview/Preview1.jpg)
 
